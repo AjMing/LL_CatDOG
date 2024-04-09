@@ -11,7 +11,7 @@ class cat:public NODE{
 public:
    
     void show_node(){
-        cout<<"Meaw  "<<size<<" ";
+       /* Do some thing with cats*/
         NODE::show_node();
     }
 
